@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>echo <h3>"# Moonlight-"</h3> >> README.md</head>
+<body>
+<p>
+git init
+git add <strong>README</strong>.md<br>
+git commit -m "first commit"<br>
+git branch -M main
+git remote add origin <a href="https://github.com/KingLamarck/Moonlight-.git"><br>
+git push -u origin main 
+</p>
+</body>
+</html>
